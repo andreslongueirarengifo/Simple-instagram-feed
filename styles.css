@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: lightgray;
+}
+.cont{
+    background-color: white;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-img{
+    margin-left: 1rem;
+}
+
+.date{
+    margin-right: 1rem;
+    color: lightgray;
+}
+
+img{
+    width: 100%;
+}
+
+.foot{
+    padding: 2%;
+}
